@@ -1,0 +1,2 @@
+# railsblogger
+Rails Blogger Class
